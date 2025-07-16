@@ -5,3 +5,7 @@
 ## Latest Posts
 - [Radix UI, asChild pattern에 대해서](https://wookhyung.netlify.app/blog/radix-ui-aschild-pattern)
 - [App Router 살펴보기 (w/ Next.js Conf 2022, React Blog)](https://wookhyung.netlify.app/blog/app-router-with-nextjs-conf-2022)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/w00khyung"/>
+</a>
