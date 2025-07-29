@@ -8,6 +8,6 @@
 - [TanStack Router(Start): implement AST-based export detection for routes](https://github.com/TanStack/router/pull/4669)
 
 ## Latest Posts
-- [Radix UI, asChild pattern에 대해서](https://wookhyung.vercel.app/blog/radix-ui-aschild-pattern)
-- [App Router 살펴보기 (w/ Next.js Conf 2022, React Blog)](https://wookhyung.vercel.app/blog/app-router-with-nextjs-conf-2022)
-- [...and more?](https://wookhyung.vercel.app/)
+- [Radix UI, asChild pattern에 대해서](https://wookhyung.dev/blog/radix-ui-aschild-pattern)
+- [App Router 살펴보기 (w/ Next.js Conf 2022, React Blog)](https://wookhyung.dev/blog/app-router-with-nextjs-conf-2022)
+- [...read more?](https://wookhyung.dev/blog/app-router-with-nextjs-conf-2022)
